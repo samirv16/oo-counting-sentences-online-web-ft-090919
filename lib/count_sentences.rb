@@ -19,3 +19,8 @@ class String
   array.length
   end
 end
+
+# array = self.split(/[.!?]/)
+# array.reject {|sentence| sentence.empty?}
+#   array.length
+#   end
