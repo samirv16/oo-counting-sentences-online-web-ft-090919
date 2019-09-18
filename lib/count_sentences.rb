@@ -21,6 +21,6 @@ class String
 end
 
 # array = self.split(/[.!?]/)
-# array.reject {|sentence| sentence.empty?}
+# array.delete {|sentence| sentence.empty?}
 #   array.length
 #   end
